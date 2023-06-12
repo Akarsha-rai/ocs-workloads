@@ -5,7 +5,7 @@ metadata:
   name: busybox-rbd-pvc
   namespace: busybox-sample
   labels:
-    appname: busybox-rbd
+    appname: busybox
 spec:
   accessModes:
   - ReadWriteOnce
