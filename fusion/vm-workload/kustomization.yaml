@@ -1,0 +1,8 @@
+---
+resources:
+  - vm-secret.yaml
+  - vm-workload-1.yaml
+generatorOptions:
+  disableNameSuffixHash: true
+
+# Made with Bob
